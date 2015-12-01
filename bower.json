@@ -1,0 +1,24 @@
+{
+  "name": "BGTasks",
+  "authors": [
+    "harv0116 <harv0116@algonquinlive.com>"
+  ],
+  "description": "Bower and Grunt Tasks",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "jquery": "~2.1.4",
+    "components-font-awesome": "~4.5.0"
+  }
+}
